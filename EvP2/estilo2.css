@@ -1,0 +1,282 @@
+body{
+    width: 90%;
+    flex-wrap:wrap-reverse;
+    margin: auto;
+    box-sizing: border-box;
+    border: 1px solid red;
+}
+
+main{
+    background-color: #e0d4a4;
+}
+
+#h3s>a{
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color:antiquewhite;
+}
+
+
+#menuPrincipal{
+    display: flex;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #a91b2c;
+    
+    
+    justify-content: space-between;
+}
+
+#menuPrincipal a{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+
+}
+
+
+
+#menuPrincipal a:hover{
+    background-color: rgb(217, 143, 143);
+    transition-property: background-color;
+    transition-duration: 500ms;
+    border-radius: 40px;
+    
+}
+
+#contendio{
+    display: flex;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    
+}
+
+#ubimenu{
+    background-color: antiquewhite;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#iniciarmenu{
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+#registromenu{
+    padding-right: 4px;
+    padding-left: 4px;
+}
+
+
+
+#h3s{
+    display: flex;
+    transform: translate(-40px);
+    
+}
+
+.h3segundo{
+    transform: translate(200px); 
+}
+
+.img2{
+    transform: translate(185px, 14px);
+    
+}
+
+.iniciar{
+    
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    background-color: bisque;
+    
+}
+
+#contenido{
+    display: flex;
+    padding-top: 30px;
+}
+
+.variedades{
+        width: 30%;
+        border: 1px solid rgb(255, 0, 0);
+        margin-left: 30px;
+        
+}
+
+.variedades > p{
+    padding-left: 15px;
+}
+
+
+.variedades > h4{
+    padding-left: 15px;
+}
+
+.variedades > h3{
+    padding-left: 15px;
+}
+
+.menu{
+    width: 50%;
+    border: 1px solid rgb(255, 2, 2);
+    margin-left: 30px;
+}
+
+.menu >h3{
+    padding-left: 15px;
+    
+}
+
+.variedadesmenu{
+    padding-top: 20px;
+}
+
+.img1menu{
+    height: 120px;
+    border-radius: 50%;
+    
+}
+#img11menu{
+    width: 120px;
+    margin-left: 10%;
+}
+
+
+.trigo1{
+    display: flex;
+    padding-right: 60px;
+}
+
+.trigo1 >p{
+    padding-left: 20px;
+    padding-top: 25px;
+}
+
+.img2menu{
+    width: 120px;
+    border-radius: 50%;
+    
+}
+
+.redlager1{
+    display: flex;
+    
+}
+
+.redlager1 > p{
+    padding-left: 20px;
+    padding-top: 25px;
+    
+}
+
+#linea1{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+
+
+
+.img2menu{
+    height: 120px;
+    border-radius: 50%;
+   
+}
+#img22menu{
+    width: 120px;
+    margin-left: 10%;
+}
+
+
+.negra{
+    display: flex;
+    padding-right: 60px;
+    
+}
+
+.negra >p{
+    padding-left: 20px;
+    padding-top: 25px;
+}
+
+.img3menu{
+    width: 120px;
+    border-radius: 50%;
+   
+}
+
+.redlager1{
+    display: flex;
+    
+}
+
+.redlager1 > p{
+    padding-left: 20px;
+    padding-top: 25px;
+    
+}
+
+#linea2{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+    
+}
+
+#contenidopadre{
+        padding-top: 7%;
+}
+
+
+
+
+
+
+#menu2{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    
+}
+
+.parrafomenu2{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.parrafomenu2 a:hover{
+    color: #a91b2c;
+}
+
+.parrafomenu2 a{
+    
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    
+}
+
+.libroimg{
+    float: right;
+    padding-right: 40px;
+}
+
+.imgpie > img{
+    
+    height: 30px;
+}
+
+.imgpie{
+    padding-left: 25px;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+
